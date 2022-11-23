@@ -19,8 +19,12 @@ WS 22 - Klassen un Objekte
 -------------------------------------
 
 - Außerdem soll die Klasse diese Methoden haben:
-  - getText()
-  - setText(String text)
+  - String getText()
+    - getText() soll das Attribut ```text``` als Rückgabewert liefern
+  - void setText(String text)
+    - setText(String text) soll das Attribut ```String text``` entsprechend des Arguments der Methode verändern
+
+
 
 
 💡 Tipp: Die Variablen innerhalb einer Klasse nennt man Attribute (häufig auch fields)
