@@ -1,5 +1,5 @@
 # 23-11-2022
-WS 22 - Klassen un Objekte
+WS 22 - Klassen und Objekte
 
 Übungsaufgabe vom 23.11.2022 für die Studierenden des Java I Seminars der Universität zu Köln
 
